@@ -2591,7 +2591,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1714934340
+				"sptUpdateLastRunTimestamp": 1714934551
 			},
 			"Info": {
 				"AccountType": 0,
@@ -28317,10 +28317,7 @@
 					"templateId": "61604635c725987e815b1a46 successMessageText 58330581ace78e27b8b10cee 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "071150b180711cf8e85b3e55",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -29456,10 +29453,7 @@
 					"templateId": "61604635c725987e815b1a46 successMessageText 5935c25fb3acc3127c3d8cd9 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "9175101a9219748099ffa9c0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
