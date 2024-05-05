@@ -1938,7 +1938,7 @@
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1714927796
+				"UpdateTime": 1714934338
 			},
 			"Hideout": {
 				"Areas": [
@@ -2435,7 +2435,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1714934190
+				"sptUpdateLastRunTimestamp": 1714934340
 			},
 			"Info": {
 				"AccountType": 0,
@@ -25853,7 +25853,7 @@
 									"count": 5000
 								}
 							],
-							"changeStandingCost": 0.01
+							"changeStandingCost": 0
 						},
 						"6636e63b733366f609000009": {
 							"changeCost": [
@@ -25997,7 +25997,7 @@
 									"count": 5000
 								}
 							],
-							"changeStandingCost": 0
+							"changeStandingCost": 0.01
 						}
 					}
 				},
