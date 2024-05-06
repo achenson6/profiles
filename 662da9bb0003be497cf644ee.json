@@ -1338,7 +1338,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966557146,
-				"sptUpdateLastRunTimestamp": 1715028322
+				"sptUpdateLastRunTimestamp": 1715031903
 			},
 			"Info": {
 				"AccountType": 0,
@@ -12110,18 +12110,7 @@
 						"time": "23:47",
 						"location": "Sandbox"
 					},
-					"items": {
-						"stash": "97acc491a0de80d676d171ce",
-						"data": [
-							{
-								"_id": "b344a3b1aefa1bf92b0375e7",
-								"_tpl": "55d4887d4bdc2d962f8b4570",
-								"parentId": "97acc491a0de80d676d171ce",
-								"slotId": "main",
-								"upd": {}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				}
 			],

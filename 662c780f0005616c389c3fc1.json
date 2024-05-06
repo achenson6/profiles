@@ -2705,7 +2705,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715028322
+				"sptUpdateLastRunTimestamp": 1715031903
 			},
 			"Info": {
 				"AccountType": 0,
@@ -28261,10 +28261,7 @@
 						"time": "23:47",
 						"location": "Sandbox"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28281,10 +28278,7 @@
 						"time": "00:20",
 						"location": "Sandbox"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28301,10 +28295,7 @@
 						"time": "00:58",
 						"location": "Sandbox"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28321,10 +28312,7 @@
 						"time": "02:33",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28341,10 +28329,7 @@
 						"time": "04:48",
 						"location": "RezervBase"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -28361,10 +28346,7 @@
 						"time": "06:15",
 						"location": "Woods"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -30660,10 +30642,7 @@
 					"templateId": "5bc4856986f77454c317bea7 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "41c22dd817b30d766d3c7a53",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31251,10 +31230,7 @@
 					"text": "Your Can of TarCola soda 1 items were bought by Olin.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "588e5324ffc196fe1baca0f7",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31265,10 +31241,7 @@
 					"text": "Your Golden Star balm 1 items were bought by Нестор.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "e3f7d9aa0ac592975a5e9587",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31279,10 +31252,7 @@
 					"text": "Your Mosin Rifle ATI Monte Carlo chassis 1 items were bought by Тихон.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "8d6fa643bd3966273e472c39",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31293,10 +31263,7 @@
 					"text": "Your Grizzly medical kit 1 items were bought by Emil.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "d4a4a79892c136ae4e42aae0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{

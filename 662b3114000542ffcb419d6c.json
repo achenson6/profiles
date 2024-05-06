@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715028322
+				"sptUpdateLastRunTimestamp": 1715031903
 			},
 			"Info": {
 				"AccountType": 0,
@@ -26132,10 +26132,7 @@
 						"time": "04:49",
 						"location": "RezervBase"
 					},
-					"items": {
-						"stash": "dd58a5771ea87e81a3a74f9f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
