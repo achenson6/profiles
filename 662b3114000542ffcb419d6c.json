@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715035514
+				"sptUpdateLastRunTimestamp": 1715039110
 			},
 			"Info": {
 				"AccountType": 0,
@@ -27944,10 +27944,7 @@
 					"templateId": "596b455186f77457cb50eccb successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "480ff5da52c0dfb8f075f74b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -27959,10 +27956,7 @@
 					"templateId": "61604635c725987e815b1a46 successMessageText 58330581ace78e27b8b10cee 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "b06b509f29cfbb9dd760dd10",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{

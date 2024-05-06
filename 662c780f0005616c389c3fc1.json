@@ -2705,7 +2705,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715035514
+				"sptUpdateLastRunTimestamp": 1715039110
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31327,10 +31327,7 @@
 					"text": "Your Can of herring 5 items were bought by Константин.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "c158cf97f92e71b3a063202a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31341,10 +31338,7 @@
 					"text": "Your Can of TarCola soda 7 items were bought by Clifford.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "06071357fd344e67a59fc683",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31355,10 +31349,7 @@
 					"text": "Your Can of herring 1 items were bought by JeryAtrik.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6fec345888e079f4204e2a7a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31369,10 +31360,7 @@
 					"text": "Your Can of Hot Rod energy drink 5 items were bought by Назар.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6c283331fbffd3edcb086009",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31383,10 +31371,7 @@
 					"text": "Your Can of squash spread 1 items were bought by Потап.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "b00867c78a590770925a3816",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31397,10 +31382,7 @@
 					"text": "Your Can of squash spread 2 items were bought by Bailey.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "62cabeeeac46c003eab80718",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
