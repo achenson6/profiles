@@ -2705,7 +2705,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715031903
+				"sptUpdateLastRunTimestamp": 1715035514
 			},
 			"Info": {
 				"AccountType": 0,
@@ -29838,10 +29838,7 @@
 					"templateId": "616052ea3054fc0e2c24ce6e successMessageText 58330581ace78e27b8b10cee 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "871552bf334ef4915a7cd119",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31319,10 +31316,7 @@
 					"text": "Your Grizzly medical kit 1 items were bought by Аристарх.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "2d694e1de0368c83b250c5ed",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
