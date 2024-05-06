@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715003095
+				"sptUpdateLastRunTimestamp": 1715006706
 			},
 			"Info": {
 				"AccountType": 0,
@@ -27293,11 +27293,45 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "c62e31f93666f77623d36a16",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715005424,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 1",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "05.05.2024",
+						"time": "02:45",
+						"location": "Lighthouse"
+					},
+					"items": {
+						"stash": "dd58a5771ea87e81a3a74f9f",
+						"data": [
+							{
+								"_id": "4449c85c62ddd3b5140caf8d",
+								"_tpl": "5b432b2f5acfc4771e1c6622",
+								"parentId": "dd58a5771ea87e81a3a74f9f",
+								"slotId": "main",
+								"upd": {
+									"StackObjectsCount": 1,
+									"Repairable": {
+										"Durability": 100,
+										"MaxDurability": 100
+									}
+								}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 7,
-			"attachmentsNew": 4
+			"new": 8,
+			"attachmentsNew": 5
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -29488,33 +29522,6 @@
 		"character": "pmc"
 	},
 	"insurance": [
-		{
-			"scheduledTime": 1715004959,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "05.05.2024",
-				"time": "02:45",
-				"location": "Lighthouse"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 1",
-			"items": [
-				{
-					"_id": "c561aa08fa3372f1fedcf040",
-					"_tpl": "5b432b2f5acfc4771e1c6622",
-					"parentId": "dd58a5771ea87e81a3a74f9f",
-					"slotId": "hideout",
-					"upd": {
-						"StackObjectsCount": 1,
-						"Repairable": {
-							"Durability": 100,
-							"MaxDurability": 100
-						}
-					}
-				}
-			]
-		},
 		{
 			"scheduledTime": 1715087292,
 			"traderId": "54cb50c76803fa8b248b4571",
