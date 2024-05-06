@@ -2705,7 +2705,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1714981504
+				"sptUpdateLastRunTimestamp": 1714985110
 			},
 			"Info": {
 				"AccountType": 0,
@@ -29081,11 +29081,54 @@
 						"time": "05:58",
 						"location": "bigmap"
 					}
+				},
+				{
+					"_id": "734a5824caf213e9f0d0db64",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1714982587,
+					"text": "",
+					"templateId": "595f995d86f77476b51172ee 0",
+					"hasRewards": false,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "05.05.2024",
+						"time": "01:38",
+						"location": "Lighthouse"
+					}
+				},
+				{
+					"_id": "4cca477f17ef664bf9e48161",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1714983788,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 3",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "05.05.2024",
+						"time": "02:05",
+						"location": "Lighthouse"
+					},
+					"items": {
+						"stash": "181d9788417f2dfead6bde85",
+						"data": [
+							{
+								"_id": "0570248b314dcad65efc66b3",
+								"_tpl": "619cf0335771dd3c390269ae",
+								"parentId": "181d9788417f2dfead6bde85",
+								"slotId": "main",
+								"upd": {}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 0,
-			"attachmentsNew": 8
+			"new": 2,
+			"attachmentsNew": 9
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -30742,10 +30785,7 @@
 					"text": "You have received a gift from VBiobic",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "f415678cb02d9df485f67b7e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31040,10 +31080,7 @@
 					"text": "Your Grizzly medical kit 1 items were bought by Theo.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "d782ac087aa9bd9a4eaa3da0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31054,10 +31091,7 @@
 					"text": "Your Vaseline balm 1 items were bought by Cecil.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "796b3820e6a25f882ab84b1b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31068,10 +31102,7 @@
 					"text": "Your Can of Hot Rod energy drink 1 items were bought by Tod.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "600010b655695ece4d39dad6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31082,10 +31113,7 @@
 					"text": "Your Can of Hot Rod energy drink 2 items were bought by Ярослав.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "c57b31e9a3ddbc0aef081b76",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31096,10 +31124,7 @@
 					"text": "Your Can of Hot Rod energy drink 1 items were bought by Edmundo.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6529334932d66acf5ff7aa65",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32024,72 +32049,6 @@
 		"character": "pmc"
 	},
 	"insurance": [
-		{
-			"scheduledTime": 1714981989,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "05.05.2024",
-				"time": "01:38",
-				"location": "Lighthouse"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 2",
-			"items": [
-				{
-					"_id": "5c6952d72fc0389cbfd34cc7",
-					"_tpl": "5b432d215acfc4771e1c6624",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "3b749a9c303ce09900101409",
-					"_tpl": "657bb92fa1c61ee0c303631f",
-					"parentId": "5c6952d72fc0389cbfd34cc7",
-					"slotId": "Helmet_top",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 50.78,
-							"Durability": 50.44
-						}
-					}
-				},
-				{
-					"_id": "fb774433918c8f19ecfea41c",
-					"_tpl": "657bb99db30eca976305117f",
-					"parentId": "5c6952d72fc0389cbfd34cc7",
-					"slotId": "Helmet_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 52,
-							"Durability": 52
-						}
-					}
-				}
-			]
-		},
-		{
-			"scheduledTime": 1714983249,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "05.05.2024",
-				"time": "02:05",
-				"location": "Lighthouse"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 3",
-			"items": [
-				{
-					"_id": "ce81b150f7f35cf770f569d3",
-					"_tpl": "619cf0335771dd3c390269ae",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {}
-				}
-			]
-		},
 		{
 			"scheduledTime": 1714991204,
 			"traderId": "54cb50c76803fa8b248b4571",
