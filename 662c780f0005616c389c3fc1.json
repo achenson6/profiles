@@ -2705,7 +2705,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715024716
+				"sptUpdateLastRunTimestamp": 1715028322
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31059,10 +31059,7 @@
 					"templateId": "5a27b7d686f77460d847e6a6 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "67998045c2ccbd7930c648c6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
