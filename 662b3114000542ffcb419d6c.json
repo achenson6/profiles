@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1714974303
+				"sptUpdateLastRunTimestamp": 1714977903
 			},
 			"Info": {
 				"AccountType": 0,
@@ -26222,10 +26222,7 @@
 					"templateId": "5967530a86f77462ba22226b successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "202d2ba7c3529fb52ae8dc11",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -26791,11 +26788,39 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "59b3620c4585e35aafee164b",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1714975976,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 1",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "05.05.2024",
+						"time": "03:42",
+						"location": "Lighthouse"
+					},
+					"items": {
+						"stash": "dd58a5771ea87e81a3a74f9f",
+						"data": [
+							{
+								"_id": "96e885fe8105cda80b600c7c",
+								"_tpl": "5b432b965acfc47a8774094e",
+								"parentId": "dd58a5771ea87e81a3a74f9f",
+								"slotId": "main",
+								"upd": {}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 4,
-			"attachmentsNew": 1
+			"new": 5,
+			"attachmentsNew": 2
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -26986,10 +27011,7 @@
 					"templateId": "5969f9e986f7741dde183a50 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "af3c4e130e98280d7ac4ed27",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -28795,10 +28817,7 @@
 					"templateId": "5a27b7a786f774579c3eb376 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6d74963c7ddc128abc0cab4b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -29539,106 +29558,6 @@
 						"Repairable": {
 							"Durability": 100,
 							"MaxDurability": 100
-						}
-					}
-				}
-			]
-		},
-		{
-			"scheduledTime": 1714975651,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "05.05.2024",
-				"time": "03:42",
-				"location": "Lighthouse"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 1",
-			"items": [
-				{
-					"_id": "fca1e2d39c6d54791994b40e",
-					"_tpl": "609e8540d5c319764c2bc2e9",
-					"parentId": "dd58a5771ea87e81a3a74f9f",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "d560d86017c2ebabcfafc96a",
-					"_tpl": "6572e5221b5bc1185508c24f",
-					"parentId": "fca1e2d39c6d54791994b40e",
-					"slotId": "Soft_armor_front",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 100,
-							"Durability": 100
-						}
-					}
-				},
-				{
-					"_id": "e996bb344a7eb06bfa106ddb",
-					"_tpl": "6572e52f73c0eabb700109a0",
-					"parentId": "fca1e2d39c6d54791994b40e",
-					"slotId": "Soft_armor_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 98.02,
-							"Durability": 98.02
-						}
-					}
-				},
-				{
-					"_id": "6d862fb1868f54b4ba5d36b9",
-					"_tpl": "6572e53c73c0eabb700109a4",
-					"parentId": "fca1e2d39c6d54791994b40e",
-					"slotId": "Soft_armor_left",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 50,
-							"Durability": 50
-						}
-					}
-				},
-				{
-					"_id": "dca2b53a7ddc36791e8f23b6",
-					"_tpl": "6572e54873c0eabb700109a8",
-					"parentId": "fca1e2d39c6d54791994b40e",
-					"slotId": "soft_armor_right",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 50,
-							"Durability": 50
-						}
-					}
-				},
-				{
-					"_id": "d29957d3c9f240c9907328e3",
-					"_tpl": "5b432b965acfc47a8774094e",
-					"parentId": "dd58a5771ea87e81a3a74f9f",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "47bce7c15e1608a7f92940c5",
-					"_tpl": "656f9fa0498d1b7e3e071d98",
-					"parentId": "fca1e2d39c6d54791994b40e",
-					"slotId": "Front_plate",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 125,
-							"Durability": 125
-						}
-					}
-				},
-				{
-					"_id": "3a98333eedf06e02e50d9172",
-					"_tpl": "656f9fa0498d1b7e3e071d98",
-					"parentId": "fca1e2d39c6d54791994b40e",
-					"slotId": "Back_plate",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 125,
-							"Durability": 123.920547
 						}
 					}
 				}
