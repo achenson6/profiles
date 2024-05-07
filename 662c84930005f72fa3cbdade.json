@@ -2538,7 +2538,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1715039110
+				"sptUpdateLastRunTimestamp": 1715042701
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31724,10 +31724,7 @@
 					"templateId": "596a0e1686f7741ddf17dbee successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6998946d56149453f6387ebf",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31749,10 +31746,7 @@
 					"templateId": "596a1e6c86f7741ddc2d3206 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "a196ddb8ba030aec8ada13ea",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31774,10 +31768,7 @@
 					"templateId": "639135d89444fb141f4e6eea successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "9610e29f0328d3917ae527f1",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32040,10 +32031,7 @@
 					"templateId": "5979ed3886f77431307dc512 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "aba062b06c263b50eec8bb29",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32055,10 +32043,7 @@
 					"templateId": "5979eee086f774311955e614 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "fed89679968a7d9d758b6766",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32577,10 +32562,7 @@
 					"templateId": "5d25b6be86f77444001e1b89 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "a90fd05f55f0f21e20761283",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32622,10 +32604,7 @@
 					"templateId": "5d25bfd086f77442734d3007 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "cd684192873e462921ce3a2d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33899,12 +33878,7 @@
 		"58330581ace78e27b8b10cee": {},
 		"5935c25fb3acc3127c3d8cd9": {},
 		"5a7c2eca46aef81a7ca2145d": {},
-		"54cb57776803fa99248b456e": {
-			"65cb82577e8e8aec5b088e03": {
-				"count": 1,
-				"purchaseTimestamp": 1715038967
-			}
-		},
+		"54cb57776803fa99248b456e": {},
 		"5c0647fdd443bc2504c2d371": {},
 		"5ac3b934156ae10c4430e83c": {}
 	},
