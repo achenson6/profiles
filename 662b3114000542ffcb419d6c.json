@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715085904
+				"sptUpdateLastRunTimestamp": 1715089500
 			},
 			"Info": {
 				"AccountType": 0,
@@ -27447,11 +27447,77 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "d9b87a02ff75cdf03bfb68ee",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715087773,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 3",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "06.05.2024",
+						"time": "02:10",
+						"location": "TarkovStreets"
+					},
+					"items": {
+						"stash": "dd58a5771ea87e81a3a74f9f",
+						"data": [
+							{
+								"_id": "d5f06728a61d92590bc4e20e",
+								"_tpl": "59e763f286f7742ee57895da",
+								"parentId": "dd58a5771ea87e81a3a74f9f",
+								"slotId": "main",
+								"upd": {}
+							},
+							{
+								"_id": "9f1bade03e1889fce9bad24d",
+								"_tpl": "65709d2d21b9f815e208ff95",
+								"parentId": "dd58a5771ea87e81a3a74f9f",
+								"slotId": "main",
+								"upd": {}
+							},
+							{
+								"_id": "4aabcf9ac3fe02efffe8d5ab",
+								"_tpl": "657f9eb7e9433140ad0baf86",
+								"parentId": "9f1bade03e1889fce9bad24d",
+								"slotId": "Helmet_top",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 24,
+										"Durability": 24
+									}
+								}
+							},
+							{
+								"_id": "24cd633691e5f4a338658f94",
+								"_tpl": "657f9ef6c6679fefb3051e1f",
+								"parentId": "9f1bade03e1889fce9bad24d",
+								"slotId": "Helmet_back",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 24,
+										"Durability": 24
+									}
+								}
+							},
+							{
+								"_id": "4bb3c69ceec9c4e8c0ebc286",
+								"_tpl": "5a16b93dfcdbcbcae6687261",
+								"parentId": "dd58a5771ea87e81a3a74f9f",
+								"slotId": "main",
+								"upd": {}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 10,
-			"attachmentsNew": 7
+			"new": 11,
+			"attachmentsNew": 8
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -29566,101 +29632,7 @@
 		"location": "none",
 		"character": "pmc"
 	},
-	"insurance": [
-		{
-			"scheduledTime": 1715087292,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "06.05.2024",
-				"time": "02:10",
-				"location": "TarkovStreets"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 3",
-			"items": [
-				{
-					"_id": "733f28cd401a04b6e60a560a",
-					"_tpl": "59e763f286f7742ee57895da",
-					"parentId": "dd58a5771ea87e81a3a74f9f",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "46c3ee314d931de99565bda2",
-					"_tpl": "5645bcc04bdc2d363b8b4572",
-					"parentId": "dd58a5771ea87e81a3a74f9f",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "aa875941c68bd7856cca63b8",
-					"_tpl": "65709d2d21b9f815e208ff95",
-					"parentId": "dd58a5771ea87e81a3a74f9f",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "537a2eb35b69ec0214022f23",
-					"_tpl": "657f9eb7e9433140ad0baf86",
-					"parentId": "aa875941c68bd7856cca63b8",
-					"slotId": "Helmet_top",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 24,
-							"Durability": 24
-						}
-					}
-				},
-				{
-					"_id": "752b7d54f5504b2c3b004bcc",
-					"_tpl": "657f9ef6c6679fefb3051e1f",
-					"parentId": "aa875941c68bd7856cca63b8",
-					"slotId": "Helmet_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 24,
-							"Durability": 24
-						}
-					}
-				},
-				{
-					"_id": "1d38bf9415c0188801e1a62c",
-					"_tpl": "5a16b8a9fcdbcb00165aa6ca",
-					"parentId": "aa875941c68bd7856cca63b8",
-					"slotId": "mod_nvg",
-					"upd": {}
-				},
-				{
-					"_id": "3b5ff8548de1b077b01ee338",
-					"_tpl": "5a16b93dfcdbcbcae6687261",
-					"parentId": "1d38bf9415c0188801e1a62c",
-					"slotId": "mod_nvg",
-					"upd": {}
-				},
-				{
-					"_id": "91a4c02f6d492c716fad3932",
-					"_tpl": "57235b6f24597759bf5a30f1",
-					"parentId": "3b5ff8548de1b077b01ee338",
-					"slotId": "mod_nvg",
-					"upd": {
-						"Sight": {
-							"ScopesCurrentCalibPointIndexes": [
-								0
-							],
-							"ScopesSelectedModes": [
-								0
-							],
-							"SelectedScope": 0
-						},
-						"Togglable": {
-							"On": false
-						}
-					}
-				}
-			]
-		}
-	],
+	"insurance": [],
 	"traderPurchases": {
 		"54cb50c76803fa8b248b4571": {},
 		"5935c25fb3acc3127c3d8cd9": {},
