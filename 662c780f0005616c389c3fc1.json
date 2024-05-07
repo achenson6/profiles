@@ -2752,7 +2752,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715064304
+				"sptUpdateLastRunTimestamp": 1715067915
 			},
 			"Info": {
 				"AccountType": 0,
@@ -29393,10 +29393,7 @@
 					"templateId": "596a1e6c86f7741ddc2d3206 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "8fb5632dfc84f6ae6295c9a0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -30047,10 +30044,7 @@
 					"templateId": "5ae3267986f7742a413592fe successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5c1378174b2065fdc6b329d2",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31465,10 +31459,7 @@
 					"text": "Your Augmentin antibiotic pills 3 items were bought by ChunkyMilk.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5bfb66d56ced9d55160fd94f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
