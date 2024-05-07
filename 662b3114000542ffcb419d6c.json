@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715053469
+				"sptUpdateLastRunTimestamp": 1715057095
 			},
 			"Info": {
 				"AccountType": 0,
@@ -26413,10 +26413,7 @@
 					"templateId": "59675d6c86f7740a842fc482 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "42242ff2621c509746ffe0fb",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -28316,10 +28313,7 @@
 					"templateId": "5ac3475486f7741d6224abd3 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "4de45a851175c6ed23c0b696",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -28331,10 +28325,7 @@
 					"templateId": "5ac2426c86f774138762edfe successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "329b37d546e3ee0df1169125",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -28356,10 +28347,7 @@
 					"templateId": "5ac2428686f77412450b42bf successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "8eb904550028038fd1328922",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -29012,10 +29000,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6b9d72e3699e68bd77421461",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -29026,10 +29011,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6b9d72e3699e68bd77421461",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
