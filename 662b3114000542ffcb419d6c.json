@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715103908
+				"sptUpdateLastRunTimestamp": 1715107514
 			},
 			"Info": {
 				"AccountType": 0,
@@ -26164,10 +26164,7 @@
 						"time": "03:11",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "dd58a5771ea87e81a3a74f9f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -26184,10 +26181,7 @@
 						"time": "03:55",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "dd58a5771ea87e81a3a74f9f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -26204,10 +26198,7 @@
 						"time": "04:44",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "dd58a5771ea87e81a3a74f9f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
