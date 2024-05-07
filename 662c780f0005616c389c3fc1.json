@@ -2752,7 +2752,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715060696
+				"sptUpdateLastRunTimestamp": 1715064304
 			},
 			"Info": {
 				"AccountType": 0,
@@ -29371,10 +29371,7 @@
 					"templateId": "5a68661a86f774500f48afb0 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "8645869343fb75a12ea66672",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -29650,10 +29647,7 @@
 					"templateId": "5979ed3886f77431307dc512 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "3570374c38d4f1a2ec0f10de",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -29665,10 +29659,7 @@
 					"templateId": "5979eee086f774311955e614 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "07ae2e3bfe9b59d56bb1136a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -30034,10 +30025,7 @@
 					"templateId": "639872f9decada40426d3447 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "3ba9f433d71b7c6628698655",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31455,10 +31443,7 @@
 					"text": "Your Ibuprofen painkillers 1 items were bought by Gavin.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "eb0bd0c44eaa6cb724b56a64",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31469,10 +31454,7 @@
 					"text": "Your Light bulb 2 items were bought by Пантелей.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "14ab42b9f5f8f6d90c1fd5e7",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{

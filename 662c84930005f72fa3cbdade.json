@@ -2538,7 +2538,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1715060696
+				"sptUpdateLastRunTimestamp": 1715064304
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31550,11 +31550,70 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "7afb3587ddcc474ed3744927",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715062526,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 0",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "06.05.2024",
+						"time": "04:58",
+						"location": "bigmap"
+					},
+					"items": {
+						"stash": "8926c92c087104e373b4e8bf",
+						"data": [
+							{
+								"_id": "ad52977bee029def37ded76d",
+								"_tpl": "5aa2ba71e5b5b000137b758f",
+								"parentId": "8926c92c087104e373b4e8bf",
+								"slotId": "main",
+								"upd": {}
+							},
+							{
+								"_id": "47b36a0edf8f05c294402fc3",
+								"_tpl": "5d5e9c74a4b9364855191c40",
+								"parentId": "8926c92c087104e373b4e8bf",
+								"slotId": "main",
+								"upd": {}
+							},
+							{
+								"_id": "54fb588e97de2363bf695d96",
+								"_tpl": "657f8b94f92cd718b70154ff",
+								"parentId": "47b36a0edf8f05c294402fc3",
+								"slotId": "Helmet_top",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 110,
+										"Durability": 110
+									}
+								}
+							},
+							{
+								"_id": "87c7ae4370cfcd7992ee57eb",
+								"_tpl": "657f8b43f92cd718b70154fb",
+								"parentId": "47b36a0edf8f05c294402fc3",
+								"slotId": "Helmet_back",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 110,
+										"Durability": 110
+									}
+								}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 1,
-			"attachmentsNew": 1
+			"new": 2,
+			"attachmentsNew": 2
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -31903,10 +31962,7 @@
 					"templateId": "5a68661a86f774500f48afb0 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "a1f1dc67ac0cac768bd51012",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32868,10 +32924,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "60dca3da42ad9b706b369aca",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32882,10 +32935,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "60dca3da42ad9b706b369aca",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32896,10 +32946,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "60dca3da42ad9b706b369aca",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32910,10 +32957,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "60dca3da42ad9b706b369aca",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33715,65 +33759,6 @@
 					"_tpl": "607d5a891246154cad35d6aa",
 					"parentId": "983ff5bc4bda7fb593888d33",
 					"slotId": "mod_stock",
-					"upd": {}
-				}
-			]
-		},
-		{
-			"scheduledTime": 1715062435,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "06.05.2024",
-				"time": "04:58",
-				"location": "bigmap"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 0",
-			"items": [
-				{
-					"_id": "b027cb332e3431594c326590",
-					"_tpl": "5aa2ba71e5b5b000137b758f",
-					"parentId": "8926c92c087104e373b4e8bf",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "e665cf897a14e0f8d2443157",
-					"_tpl": "5d5e9c74a4b9364855191c40",
-					"parentId": "8926c92c087104e373b4e8bf",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "dc7ffefef2783fb1a0dc83bd",
-					"_tpl": "657f8b94f92cd718b70154ff",
-					"parentId": "e665cf897a14e0f8d2443157",
-					"slotId": "Helmet_top",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 110,
-							"Durability": 110
-						}
-					}
-				},
-				{
-					"_id": "c6fb19314c9339d1d73efd92",
-					"_tpl": "657f8b43f92cd718b70154fb",
-					"parentId": "e665cf897a14e0f8d2443157",
-					"slotId": "Helmet_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 110,
-							"Durability": 110
-						}
-					}
-				},
-				{
-					"_id": "85e3bacdd9fb793ed6224007",
-					"_tpl": "5a398b75c4a282000a51a266",
-					"parentId": "e665cf897a14e0f8d2443157",
-					"slotId": "mod_mount",
 					"upd": {}
 				}
 			]
