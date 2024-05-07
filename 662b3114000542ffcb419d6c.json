@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715071511
+				"sptUpdateLastRunTimestamp": 1715075097
 			},
 			"Info": {
 				"AccountType": 0,
@@ -27414,11 +27414,44 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "b92fb8e2f27d99a223c046c0",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715072142,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 0",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "06.05.2024",
+						"time": "04:01",
+						"location": "bigmap"
+					},
+					"items": {
+						"stash": "dd58a5771ea87e81a3a74f9f",
+						"data": [
+							{
+								"_id": "e9c48af45dfa755de0c4b99c",
+								"_tpl": "5b432b2f5acfc4771e1c6622",
+								"parentId": "dd58a5771ea87e81a3a74f9f",
+								"slotId": "main",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 97.01,
+										"Durability": 97
+									}
+								}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 9,
-			"attachmentsNew": 6
+			"new": 10,
+			"attachmentsNew": 7
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -29622,32 +29655,6 @@
 						},
 						"Togglable": {
 							"On": false
-						}
-					}
-				}
-			]
-		},
-		{
-			"scheduledTime": 1715071783,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "06.05.2024",
-				"time": "04:01",
-				"location": "bigmap"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 0",
-			"items": [
-				{
-					"_id": "7acb8b25c51ba4827f9b189b",
-					"_tpl": "5b432b2f5acfc4771e1c6622",
-					"parentId": "dd58a5771ea87e81a3a74f9f",
-					"slotId": "hideout",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 97.01,
-							"Durability": 97
 						}
 					}
 				}
