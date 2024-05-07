@@ -2538,7 +2538,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1715057095
+				"sptUpdateLastRunTimestamp": 1715060696
 			},
 			"Info": {
 				"AccountType": 0,
@@ -32857,10 +32857,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
