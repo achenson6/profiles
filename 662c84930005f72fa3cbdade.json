@@ -2538,7 +2538,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1715042701
+				"sptUpdateLastRunTimestamp": 1715046302
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31459,11 +31459,102 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "769f9dbf037b40dfa4f22f57",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715045692,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 2",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "05.05.2024",
+						"time": "19:35",
+						"location": "Shoreline"
+					},
+					"items": {
+						"stash": "8926c92c087104e373b4e8bf",
+						"data": [
+							{
+								"_id": "ddbe1b1ddabfb660f8053b27",
+								"_tpl": "5d5d85c586f774279a21cbdb",
+								"parentId": "8926c92c087104e373b4e8bf",
+								"slotId": "main",
+								"upd": {}
+							},
+							{
+								"_id": "e5764c1c1a78ec86551f34bb",
+								"_tpl": "5de653abf76fdc1ce94a5a2a",
+								"parentId": "ddbe1b1ddabfb660f8053b27",
+								"slotId": "1",
+								"upd": {
+									"StackObjectsCount": 1
+								},
+								"location": {
+									"x": 0,
+									"y": 0,
+									"r": "Horizontal",
+									"isSearched": true
+								}
+							},
+							{
+								"_id": "72de031a87b06dbdf2839c35",
+								"_tpl": "5de653abf76fdc1ce94a5a2a",
+								"parentId": "ddbe1b1ddabfb660f8053b27",
+								"slotId": "1",
+								"upd": {
+									"StackObjectsCount": 1
+								},
+								"location": {
+									"x": 0,
+									"y": 1,
+									"r": "Horizontal",
+									"isSearched": true
+								}
+							},
+							{
+								"_id": "5c902eaca52ec5c125f9c9c3",
+								"_tpl": "5df8a2ca86f7740bfe6df777",
+								"parentId": "8926c92c087104e373b4e8bf",
+								"slotId": "main",
+								"upd": {
+									"StackObjectsCount": 1
+								}
+							},
+							{
+								"_id": "c12ff8378400f0221a702a84",
+								"_tpl": "656fd7c32668ef0402028fb9",
+								"parentId": "5c902eaca52ec5c125f9c9c3",
+								"slotId": "Soft_armor_front",
+								"upd": {
+									"Repairable": {
+										"Durability": 77.26087,
+										"MaxDurability": 105
+									}
+								}
+							},
+							{
+								"_id": "5e40040f53abfabdc332cb85",
+								"_tpl": "656fd89bf5a9631d4e042575",
+								"parentId": "5c902eaca52ec5c125f9c9c3",
+								"slotId": "Soft_armor_back",
+								"upd": {
+									"Repairable": {
+										"Durability": 105,
+										"MaxDurability": 105
+									}
+								}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 0,
-			"attachmentsNew": 0
+			"new": 1,
+			"attachmentsNew": 1
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -31800,10 +31891,7 @@
 					"templateId": "6179ad56c760af5ad2053587 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "bd94da7221d0e253c6bbd2f0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33198,10 +33286,7 @@
 					"templateId": "616052ea3054fc0e2c24ce6e successMessageText 5ac3b934156ae10c4430e83c 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "838dd97a759bf3156267950b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -33549,161 +33634,6 @@
 		"character": "pmc"
 	},
 	"insurance": [
-		{
-			"scheduledTime": 1715045120,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "05.05.2024",
-				"time": "19:35",
-				"location": "Shoreline"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 2",
-			"items": [
-				{
-					"_id": "a68abae9313162924d5f273d",
-					"_tpl": "5d5d85c586f774279a21cbdb",
-					"parentId": "8926c92c087104e373b4e8bf",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "dce95ba649510ae12917cf52",
-					"_tpl": "5de652c31b7e3716273428be",
-					"parentId": "8926c92c087104e373b4e8bf",
-					"slotId": "hideout",
-					"upd": {
-						"FireMode": {
-							"FireMode": "single"
-						},
-						"StackObjectsCount": 1,
-						"Repairable": {
-							"Durability": 99.13825,
-							"MaxDurability": 100
-						}
-					}
-				},
-				{
-					"_id": "27fa7cff0765bd16ea633152",
-					"_tpl": "5de653abf76fdc1ce94a5a2a",
-					"parentId": "a68abae9313162924d5f273d",
-					"slotId": "1",
-					"upd": {
-						"StackObjectsCount": 1
-					},
-					"location": {
-						"x": 0,
-						"y": 0,
-						"r": "Horizontal",
-						"isSearched": true
-					}
-				},
-				{
-					"_id": "d5b3eb2017fae0dddec6fd13",
-					"_tpl": "5de653abf76fdc1ce94a5a2a",
-					"parentId": "a68abae9313162924d5f273d",
-					"slotId": "1",
-					"upd": {
-						"StackObjectsCount": 1
-					},
-					"location": {
-						"x": 0,
-						"y": 1,
-						"r": "Horizontal",
-						"isSearched": true
-					}
-				},
-				{
-					"_id": "29b0bce074e6b2797e656f88",
-					"_tpl": "5df8a2ca86f7740bfe6df777",
-					"parentId": "8926c92c087104e373b4e8bf",
-					"slotId": "hideout",
-					"upd": {
-						"StackObjectsCount": 1
-					}
-				},
-				{
-					"_id": "1807aa3b970c83c486aa7020",
-					"_tpl": "656fd7c32668ef0402028fb9",
-					"parentId": "29b0bce074e6b2797e656f88",
-					"slotId": "Soft_armor_front",
-					"upd": {
-						"Repairable": {
-							"Durability": 77.26087,
-							"MaxDurability": 105
-						}
-					}
-				},
-				{
-					"_id": "3141e3e9070316493510c44e",
-					"_tpl": "656fd89bf5a9631d4e042575",
-					"parentId": "29b0bce074e6b2797e656f88",
-					"slotId": "Soft_armor_back",
-					"upd": {
-						"Repairable": {
-							"Durability": 105,
-							"MaxDurability": 105
-						}
-					}
-				},
-				{
-					"_id": "e93bc71943749228dce0225a",
-					"_tpl": "5de653abf76fdc1ce94a5a2a",
-					"parentId": "dce95ba649510ae12917cf52",
-					"slotId": "mod_magazine",
-					"upd": {
-						"StackObjectsCount": 1
-					}
-				},
-				{
-					"_id": "bd138329686f9f56a2be2598",
-					"_tpl": "5de655be4a9f347bc92edb88",
-					"parentId": "dce95ba649510ae12917cf52",
-					"slotId": "mod_stock",
-					"upd": {}
-				},
-				{
-					"_id": "b14aedd056bee31587ff33aa",
-					"_tpl": "5de65547883dde217541644b",
-					"parentId": "dce95ba649510ae12917cf52",
-					"slotId": "mod_barrel",
-					"upd": {}
-				},
-				{
-					"_id": "803bea68ccab6d37a3d87bde",
-					"_tpl": "5de6558e9f98ac2bc65950fc",
-					"parentId": "dce95ba649510ae12917cf52",
-					"slotId": "mod_mount",
-					"upd": {}
-				},
-				{
-					"_id": "b1c3f7b53600b100cd670bc0",
-					"_tpl": "5de6556a205ddc616a6bc4f7",
-					"parentId": "b14aedd056bee31587ff33aa",
-					"slotId": "mod_muzzle",
-					"upd": {}
-				},
-				{
-					"_id": "485fcf8b5da6772479f9cb44",
-					"_tpl": "5dff77c759400025ea5150cf",
-					"parentId": "803bea68ccab6d37a3d87bde",
-					"slotId": "mod_scope",
-					"upd": {
-						"StackObjectsCount": 1
-					}
-				},
-				{
-					"_id": "4039133987bea1ea4554f21c",
-					"_tpl": "5dff772da3651922b360bf91",
-					"parentId": "485fcf8b5da6772479f9cb44",
-					"slotId": "mod_scope",
-					"upd": {
-						"StackObjectsCount": 1
-					}
-				}
-			]
-		},
 		{
 			"scheduledTime": 1715091541,
 			"traderId": "54cb50c76803fa8b248b4571",

@@ -2705,7 +2705,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715042701
+				"sptUpdateLastRunTimestamp": 1715046302
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31393,10 +31393,7 @@
 					"text": "Your VPX Flash Storage Module 1 items were bought by Stanford.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "f2f79566a508f17475ceae9c",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -31407,10 +31404,7 @@
 					"text": "Your VPX Flash Storage Module 1 items were bought by Douglass.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6dbebabc408c40c4bc843533",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
