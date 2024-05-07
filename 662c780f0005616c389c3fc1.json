@@ -1409,12 +1409,6 @@
 					"sourceId": "5edab736cc183c769d778bc2",
 					"type": "CounterCreator"
 				},
-				"663846249b5868a199000006": {
-					"id": "663846249b5868a199000006",
-					"value": 0,
-					"sourceId": "663846249b5868a199000005",
-					"type": "HandoverItem"
-				},
 				"5979fc7e86f77426d702a0f4": {
 					"id": "5979fc7e86f77426d702a0f4",
 					"value": 0,
@@ -2211,18 +2205,18 @@
 					}
 				},
 				"Energy": {
-					"Current": 76,
+					"Current": 130,
 					"Maximum": 130
 				},
 				"Hydration": {
-					"Current": 78,
+					"Current": 110,
 					"Maximum": 110
 				},
 				"Temperature": {
 					"Current": 30,
 					"Maximum": 30
 				},
-				"UpdateTime": 1715057699
+				"UpdateTime": 1715124049
 			},
 			"Hideout": {
 				"Areas": [
@@ -2748,11 +2742,15 @@
 					"639199277a9178252d38c990": {
 						"completed": true,
 						"improveCompleteTimestamp": 1714624924
+					},
+					"639199277a9178252d38c992": {
+						"completed": true,
+						"improveCompleteTimestamp": 1715123925
 					}
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715121898
+				"sptUpdateLastRunTimestamp": 1715125476
 			},
 			"Info": {
 				"AccountType": 0,
@@ -3346,8 +3344,8 @@
 						"parentId": "a9523e7f2f986fb3cdf5cafe",
 						"slotId": "main",
 						"location": {
-							"x": 1,
-							"y": 1,
+							"x": 0,
+							"y": 2,
 							"r": "Horizontal",
 							"isSearched": true
 						},
@@ -3440,7 +3438,7 @@
 							"isSearched": true
 						},
 						"upd": {
-							"StackObjectsCount": 30
+							"StackObjectsCount": 60
 						}
 					},
 					{
@@ -16514,7 +16512,7 @@
 						"parentId": "5fe49a0e2694b0755a504876",
 						"slotId": "hideout",
 						"upd": {
-							"StackObjectsCount": 42
+							"StackObjectsCount": 12
 						},
 						"location": {
 							"x": 4,
@@ -19050,8 +19048,8 @@
 						"parentId": "5fe49a0e2694b0755a504876",
 						"slotId": "hideout",
 						"location": {
-							"x": 0,
-							"y": 35,
+							"x": 3,
+							"y": 41,
 							"r": "Horizontal",
 							"isSearched": true
 						}
@@ -19351,13 +19349,13 @@
 							"StackObjectsCount": 1,
 							"SpawnedInSession": true
 						},
-						"parentId": "5fe49a0e2694b0755a504876",
-						"slotId": "hideout",
+						"parentId": "b2d4cce1aac07c767f74efb3",
+						"slotId": "main",
 						"location": {
-							"x": 6,
-							"y": 24,
-							"r": 0,
-							"rotation": false
+							"x": 5,
+							"y": 11,
+							"r": "Horizontal",
+							"isSearched": true
 						}
 					},
 					{
@@ -19367,13 +19365,13 @@
 							"StackObjectsCount": 1,
 							"SpawnedInSession": true
 						},
-						"parentId": "5fe49a0e2694b0755a504876",
-						"slotId": "hideout",
+						"parentId": "b2d4cce1aac07c767f74efb3",
+						"slotId": "main",
 						"location": {
-							"x": 8,
-							"y": 24,
-							"r": 0,
-							"rotation": false
+							"x": 0,
+							"y": 10,
+							"r": "Horizontal",
+							"isSearched": true
 						}
 					},
 					{
@@ -19406,6 +19404,22 @@
 							"y": 26,
 							"r": 0,
 							"rotation": false
+						}
+					},
+					{
+						"_id": "b77a0dd838fb70a1ec0670d2",
+						"_tpl": "5ed515ece452db0eb56fc028",
+						"parentId": "5fe49a0e2694b0755a504876",
+						"slotId": "hideout",
+						"upd": {
+							"SpawnedInSession": true,
+							"StackObjectsCount": 1
+						},
+						"location": {
+							"x": 3,
+							"y": 26,
+							"r": "Horizontal",
+							"isSearched": true
 						}
 					}
 				],
@@ -24081,7 +24095,7 @@
 									"count": 5000
 								}
 							],
-							"changeStandingCost": 0
+							"changeStandingCost": 0.01
 						},
 						"66399d809b5868a199000003": {
 							"changeCost": [
@@ -24090,7 +24104,7 @@
 									"count": 5000
 								}
 							],
-							"changeStandingCost": 0.01
+							"changeStandingCost": 0
 						},
 						"66399d809b5868a199000005": {
 							"changeCost": [
@@ -24099,7 +24113,7 @@
 									"count": 5000
 								}
 							],
-							"changeStandingCost": 0.01
+							"changeStandingCost": 0
 						}
 					}
 				},
@@ -24237,7 +24251,7 @@
 									"count": 5000
 								}
 							],
-							"changeStandingCost": 0.01
+							"changeStandingCost": 0
 						}
 					}
 				},
@@ -29074,7 +29088,7 @@
 				}
 			],
 			"pinned": false,
-			"new": 1,
+			"new": 0,
 			"attachmentsNew": 1
 		},
 		"54cb57776803fa99248b456e": {
@@ -29759,8 +29773,8 @@
 					"dt": 1715054371,
 					"text": "",
 					"templateId": "61604635c725987e815b1a46 successMessageText 58330581ace78e27b8b10cee 0",
-					"hasRewards": true,
-					"rewardCollected": false,
+					"hasRewards": false,
+					"rewardCollected": true,
 					"items": {
 						"stash": "83c94acd47d356c0ee40887b",
 						"data": []
@@ -30548,8 +30562,8 @@
 					"dt": 1715054349,
 					"text": "",
 					"templateId": "5bc4893c86f774626f5ebf3e successMessageText",
-					"hasRewards": true,
-					"rewardCollected": false,
+					"hasRewards": false,
+					"rewardCollected": true,
 					"items": {
 						"stash": "7f3a984a8274b0c561b1396b",
 						"data": []
@@ -31728,29 +31742,18 @@
 					"dt": 1715097724,
 					"text": "",
 					"templateId": "5bdabfe486f7743e1665df6e 0",
-					"hasRewards": true,
-					"rewardCollected": false,
+					"hasRewards": false,
+					"rewardCollected": true,
 					"items": {
 						"stash": "hideout",
-						"data": [
-							{
-								"_id": "b77a0dd838fb70a1ec0670d2",
-								"_tpl": "5ed515ece452db0eb56fc028",
-								"parentId": "hideout",
-								"slotId": "main",
-								"upd": {
-									"SpawnedInSession": true,
-									"StackObjectsCount": 1
-								}
-							}
-						]
+						"data": []
 					},
 					"maxStorageTime": 259200
 				}
 			],
 			"pinned": false,
-			"new": 1,
-			"attachmentsNew": 1
+			"new": 0,
+			"attachmentsNew": 0
 		},
 		"Mervin Tingley": {
 			"_id": "Mervin Tingley",
@@ -31974,7 +31977,7 @@
 		}
 	},
 	"inraid": {
-		"location": "none",
+		"location": "TarkovStreets",
 		"character": "pmc"
 	},
 	"insurance": [
