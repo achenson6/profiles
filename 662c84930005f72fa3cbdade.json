@@ -2538,7 +2538,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1715139880
+				"sptUpdateLastRunTimestamp": 1715143516
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31591,10 +31591,7 @@
 					"templateId": "5967530a86f77462ba22226b successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "ef5e9ccec4a4692aa717e9d3",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -32431,10 +32428,7 @@
 					"templateId": "5979eee086f774311955e614 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "957380ca44f52d69e0024ac2",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33187,10 +33181,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -33266,10 +33257,7 @@
 					"text": "You have received a gift from VBiobic",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49cdfa19cac3fa9054115",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
