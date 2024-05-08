@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715143516
+				"sptUpdateLastRunTimestamp": 1715147107
 			},
 			"Info": {
 				"AccountType": 0,
@@ -26571,10 +26571,7 @@
 					"templateId": "5967725e86f774601a446662 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "909a9c3b7f7d04dd6726c713",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -29169,10 +29166,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
