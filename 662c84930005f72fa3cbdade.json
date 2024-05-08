@@ -2538,7 +2538,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1715172308
+				"sptUpdateLastRunTimestamp": 1715175909
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31178,10 +31178,7 @@
 						"time": "02:47",
 						"location": "Shoreline"
 					},
-					"items": {
-						"stash": "8926c92c087104e373b4e8bf",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
