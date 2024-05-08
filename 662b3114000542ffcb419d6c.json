@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715136295
+				"sptUpdateLastRunTimestamp": 1715139880
 			},
 			"Info": {
 				"AccountType": 0,
@@ -27911,10 +27911,7 @@
 					"templateId": "6573387d0b26ed4fde798de3 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "94386e0dee2b101059442293",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -28175,10 +28172,7 @@
 					"templateId": "5979ed3886f77431307dc512 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "7fd69b50e65851ed9e15bdc8",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -28190,10 +28184,7 @@
 					"templateId": "5979eee086f774311955e614 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "edc1e7d95d1064335b8229e1",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -28565,10 +28556,7 @@
 					"templateId": "639136fa9444fb141f4e6eee successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "81e8f7ffdc2194454e96f2dc",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -28824,10 +28812,7 @@
 					"templateId": "63a88045abf76d719f42d715 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "b51a509200c01c99966877a0",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -28839,10 +28824,7 @@
 					"templateId": "63a511ea30d85e10e375b045 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6f10fa119af759a4022c811f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -28864,10 +28846,7 @@
 					"templateId": "639136e84ed9512be67647db description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "d20f2271cc0285d5984ff9e7",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
