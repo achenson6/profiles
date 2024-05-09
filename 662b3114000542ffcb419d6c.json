@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715244302
+				"sptUpdateLastRunTimestamp": 1715247907
 			},
 			"Info": {
 				"AccountType": 0,
@@ -26441,10 +26441,7 @@
 						"time": "07:53",
 						"location": "Woods"
 					},
-					"items": {
-						"stash": "dd58a5771ea87e81a3a74f9f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
