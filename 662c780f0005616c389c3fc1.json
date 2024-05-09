@@ -2978,7 +2978,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715262320
+				"sptUpdateLastRunTimestamp": 1715265901
 			},
 			"Info": {
 				"AccountType": 0,
@@ -29427,10 +29427,7 @@
 						"time": "03:06",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -30546,11 +30543,39 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "2d0baa17aa3bf84037dcbd03",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715263933,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 1",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "08.05.2024",
+						"time": "03:20",
+						"location": "Shoreline"
+					},
+					"items": {
+						"stash": "181d9788417f2dfead6bde85",
+						"data": [
+							{
+								"_id": "35cafdaf46b4117144e3dc0a",
+								"_tpl": "6193d3149fb0c665d5490e32",
+								"parentId": "181d9788417f2dfead6bde85",
+								"slotId": "main",
+								"upd": {}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 5,
-			"attachmentsNew": 3
+			"new": 6,
+			"attachmentsNew": 4
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -33992,34 +34017,6 @@
 		"character": "pmc"
 	},
 	"insurance": [
-		{
-			"scheduledTime": 1715263618,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "08.05.2024",
-				"time": "03:20",
-				"location": "Shoreline"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 1",
-			"items": [
-				{
-					"_id": "f0209e41f594a8f27c15b516",
-					"_tpl": "6193d3149fb0c665d5490e32",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "789a5428fac838032e062e53",
-					"_tpl": "6193d3149fb0c665d5490e32",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {}
-				}
-			]
-		},
 		{
 			"scheduledTime": 1715340640,
 			"traderId": "54cb50c76803fa8b248b4571",
