@@ -2574,7 +2574,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1715229912
+				"sptUpdateLastRunTimestamp": 1715233503
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31145,10 +31145,7 @@
 						"time": "03:32",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "8926c92c087104e373b4e8bf",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -31165,10 +31162,7 @@
 						"time": "03:05",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "8926c92c087104e373b4e8bf",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
