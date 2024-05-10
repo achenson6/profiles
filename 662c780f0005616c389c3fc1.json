@@ -2978,7 +2978,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715298298
+				"sptUpdateLastRunTimestamp": 1715301914
 			},
 			"Info": {
 				"AccountType": 0,
@@ -29461,10 +29461,7 @@
 						"time": "21:25",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -33467,10 +33464,7 @@
 					"text": "Your Ibuprofen painkillers 1 items were bought by Trinidad.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "7650d69417f47fa5f1b82bda",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33481,10 +33475,7 @@
 					"text": "Your Can of TarCola soda 2 items were bought by Егор.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "a4c38a879b0c210fe69ad246",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33495,10 +33486,7 @@
 					"text": "Your Can of TarCola soda 2 items were bought by Lino.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "4c6a86b8e770bd49570204b2",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33509,10 +33497,7 @@
 					"text": "Your Can of Hot Rod energy drink 1 items were bought by Эдуард.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "f15c1073a27c992f49a11d3f",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33523,10 +33508,7 @@
 					"text": "Your Pile of meds 1 items were bought by Quintin.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "88e9d0f805eb2f69b121aa7e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33537,10 +33519,7 @@
 					"text": "Your Pile of meds 1 items were bought by Sol.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "1a591ec90b2bfdc20d22bea6",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33551,10 +33530,7 @@
 					"text": "Your Pile of meds 1 items were bought by Виктор.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "e5dd74f7a36fbb28b435bb28",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33565,10 +33541,7 @@
 					"text": "Your Can of Max Energy energy drink 1 items were bought by Елизар.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "867e370e4d7ae5f04c9333bb",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33579,10 +33552,7 @@
 					"text": "Your Bottle of Tarkovskaya vodka 1 items were bought by CaimenCider.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "9d2d512916fc77f07dd8fbce",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33593,10 +33563,7 @@
 					"text": "Your SJ6 TGLabs combat stimulant injector 1 items were bought by Харитон.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "bb4dd43d6aa8f405d52d8222",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33608,10 +33575,7 @@
 					"templateId": "638fcd23dc65553116701d33 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "1ed5c77a99c3bbe637316307",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
