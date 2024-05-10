@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715319918
+				"sptUpdateLastRunTimestamp": 1715323505
 			},
 			"Info": {
 				"AccountType": 0,
@@ -26613,18 +26613,7 @@
 						"time": "03:42",
 						"location": "Lighthouse"
 					},
-					"items": {
-						"stash": "dd58a5771ea87e81a3a74f9f",
-						"data": [
-							{
-								"_id": "96e885fe8105cda80b600c7c",
-								"_tpl": "5b432b965acfc47a8774094e",
-								"parentId": "dd58a5771ea87e81a3a74f9f",
-								"slotId": "main",
-								"upd": {}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
