@@ -2574,7 +2574,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1715391908
+				"sptUpdateLastRunTimestamp": 1715395514
 			},
 			"Info": {
 				"AccountType": 0,
@@ -33921,21 +33921,7 @@
 					"templateId": "61604635c725987e815b1a46 successMessageText 5935c25fb3acc3127c3d8cd9 0",
 					"hasRewards": true,
 					"rewardCollected": false,
-					"items": {
-						"stash": "d605c9e15e790b2c569957c2",
-						"data": [
-							{
-								"_id": "ef56a758fb61cabacb6017e7",
-								"_tpl": "5fd4c60f875c30179f5d04c2",
-								"upd": {
-									"StackObjectsCount": 1,
-									"SpawnedInSession": true
-								},
-								"parentId": "d605c9e15e790b2c569957c2",
-								"slotId": "main"
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],

@@ -2978,7 +2978,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715391908
+				"sptUpdateLastRunTimestamp": 1715395514
 			},
 			"Info": {
 				"AccountType": 0,
@@ -34781,10 +34781,7 @@
 					"templateId": "5d25d2c186f77443e35162e5 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "bc10ee7414aeec57932c3750",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -36098,10 +36095,7 @@
 					"text": "Your Ibuprofen painkillers 1 items were bought by Ramon.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "aa26ee54013b4f4790fd2eab",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
