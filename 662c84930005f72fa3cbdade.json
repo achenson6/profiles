@@ -2574,7 +2574,7 @@
 				},
 				"Production": {},
 				"Seed": 1966481643,
-				"sptUpdateLastRunTimestamp": 1715395514
+				"sptUpdateLastRunTimestamp": 1715399105
 			},
 			"Info": {
 				"AccountType": 0,
@@ -33533,10 +33533,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "b2d4cce1aac07c767f74efb3",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33547,10 +33544,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33561,10 +33555,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33575,10 +33566,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33589,10 +33577,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33603,10 +33588,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33617,10 +33599,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33631,10 +33610,7 @@
 					"text": "You have received a gift from Austism",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "fac94d68934885953a7dcb61",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -34017,10 +33993,7 @@
 					"text": "Your Ibuprofen painkillers 4 items were bought by Елизар.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "853d7a551df9c84ae24b950b",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -34031,10 +34004,7 @@
 					"text": "Your Golden Star balm 2 items were bought by Дмитрий.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "acd065e548e70f138f463cd2",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],

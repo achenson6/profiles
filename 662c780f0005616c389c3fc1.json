@@ -2978,7 +2978,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715395514
+				"sptUpdateLastRunTimestamp": 1715399105
 			},
 			"Info": {
 				"AccountType": 0,
@@ -36106,10 +36106,7 @@
 					"text": "Your Tetriz portable game console 1 items were bought by Leo.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "3a2f64fdc59fc1e85f0c8ef5",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
