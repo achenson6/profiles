@@ -2978,7 +2978,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715399105
+				"sptUpdateLastRunTimestamp": 1715402710
 			},
 			"Info": {
 				"AccountType": 0,
@@ -32115,10 +32115,7 @@
 					"templateId": "61604635c725987e815b1a46 successMessageText 54cb50c76803fa8b248b4571 0",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "c15981d7d9903d9cc7d1eb97",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33848,10 +33845,7 @@
 					"templateId": "5979f9ba86f7740f6c3fe9f2 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "ccff29231dbe902434e558d4",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33863,10 +33857,7 @@
 					"templateId": "597a0b2986f77426d66c0633 description",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "d68c3dd7bb4153423d388f88",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
@@ -34900,10 +34891,7 @@
 					"text": "You have received a gift from JeryAtrik",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -34914,10 +34902,7 @@
 					"text": "You have received a gift from JeryAtrik",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5fe49a0e2694b0755a504876",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				}
 			],
