@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715409911
+				"sptUpdateLastRunTimestamp": 1715413506
 			},
 			"Info": {
 				"AccountType": 0,
@@ -26681,86 +26681,7 @@
 						"time": "05:01",
 						"location": "bigmap"
 					},
-					"items": {
-						"stash": "dd58a5771ea87e81a3a74f9f",
-						"data": [
-							{
-								"_id": "6b32342129f4e9dd79ee87db",
-								"_tpl": "5ab8f85d86f7745cd93a1cf5",
-								"parentId": "dd58a5771ea87e81a3a74f9f",
-								"slotId": "main",
-								"upd": {}
-							},
-							{
-								"_id": "12b2536a4486bac8a244bd21",
-								"_tpl": "5b432b965acfc47a8774094e",
-								"parentId": "dd58a5771ea87e81a3a74f9f",
-								"slotId": "main",
-								"upd": {}
-							},
-							{
-								"_id": "0641675be1f3fa6ae03813c4",
-								"_tpl": "56dee2bdd2720bc8328b4567",
-								"parentId": "dd58a5771ea87e81a3a74f9f",
-								"slotId": "main",
-								"upd": {
-									"StackObjectsCount": 1,
-									"Repairable": {
-										"Durability": 99.70535,
-										"MaxDurability": 100
-									}
-								}
-							},
-							{
-								"_id": "49cab7674c62200f72a0d226",
-								"_tpl": "56deec93d2720bec348b4568",
-								"parentId": "0641675be1f3fa6ae03813c4",
-								"slotId": "mod_barrel",
-								"upd": {}
-							},
-							{
-								"_id": "7deba98940edba27e136017f",
-								"_tpl": "56deed6ed2720b4c698b4583",
-								"parentId": "0641675be1f3fa6ae03813c4",
-								"slotId": "mod_handguard",
-								"upd": {}
-							},
-							{
-								"_id": "da1cdb7340159d2566be64c3",
-								"_tpl": "5882163224597757561aa920",
-								"parentId": "0641675be1f3fa6ae03813c4",
-								"slotId": "mod_magazine",
-								"upd": {
-									"StackObjectsCount": 1
-								}
-							},
-							{
-								"_id": "494cfb25de2dc799a2841e54",
-								"_tpl": "56083be64bdc2d20478b456f",
-								"parentId": "0641675be1f3fa6ae03813c4",
-								"slotId": "mod_stock",
-								"upd": {}
-							},
-							{
-								"_id": "08358a1a7bedb98c8de60bfa",
-								"_tpl": "55d48a634bdc2d8b2f8b456a",
-								"parentId": "0641675be1f3fa6ae03813c4",
-								"slotId": "mod_mount",
-								"upd": {
-									"StackObjectsCount": 1
-								}
-							},
-							{
-								"_id": "0e0b0e53d2fc2715701d85ba",
-								"_tpl": "5b30b0dc5acfc400153b7124",
-								"parentId": "08358a1a7bedb98c8de60bfa",
-								"slotId": "mod_scope",
-								"upd": {
-									"StackObjectsCount": 1
-								}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
