@@ -2184,7 +2184,7 @@
 				"Improvement": {},
 				"Production": {},
 				"Seed": 1966395520,
-				"sptUpdateLastRunTimestamp": 1715431515
+				"sptUpdateLastRunTimestamp": 1715435111
 			},
 			"Info": {
 				"AccountType": 0,
@@ -26715,56 +26715,7 @@
 						"time": "02:10",
 						"location": "TarkovStreets"
 					},
-					"items": {
-						"stash": "dd58a5771ea87e81a3a74f9f",
-						"data": [
-							{
-								"_id": "d5f06728a61d92590bc4e20e",
-								"_tpl": "59e763f286f7742ee57895da",
-								"parentId": "dd58a5771ea87e81a3a74f9f",
-								"slotId": "main",
-								"upd": {}
-							},
-							{
-								"_id": "9f1bade03e1889fce9bad24d",
-								"_tpl": "65709d2d21b9f815e208ff95",
-								"parentId": "dd58a5771ea87e81a3a74f9f",
-								"slotId": "main",
-								"upd": {}
-							},
-							{
-								"_id": "4aabcf9ac3fe02efffe8d5ab",
-								"_tpl": "657f9eb7e9433140ad0baf86",
-								"parentId": "9f1bade03e1889fce9bad24d",
-								"slotId": "Helmet_top",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 24,
-										"Durability": 24
-									}
-								}
-							},
-							{
-								"_id": "24cd633691e5f4a338658f94",
-								"_tpl": "657f9ef6c6679fefb3051e1f",
-								"parentId": "9f1bade03e1889fce9bad24d",
-								"slotId": "Helmet_back",
-								"upd": {
-									"Repairable": {
-										"MaxDurability": 24,
-										"Durability": 24
-									}
-								}
-							},
-							{
-								"_id": "4bb3c69ceec9c4e8c0ebc286",
-								"_tpl": "5a16b93dfcdbcbcae6687261",
-								"parentId": "dd58a5771ea87e81a3a74f9f",
-								"slotId": "main",
-								"upd": {}
-							}
-						]
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				}
 			],

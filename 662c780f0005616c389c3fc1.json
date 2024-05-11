@@ -2978,7 +2978,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715431515
+				"sptUpdateLastRunTimestamp": 1715435111
 			},
 			"Info": {
 				"AccountType": 0,
@@ -33080,11 +33080,75 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "a225ea626d7536cecba3bf8f",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715433564,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 1",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "10.05.2024",
+						"time": "05:04",
+						"location": "Interchange"
+					},
+					"items": {
+						"stash": "181d9788417f2dfead6bde85",
+						"data": [
+							{
+								"_id": "bc0c27d37f7bcc3ebd88c606",
+								"_tpl": "5cadc190ae921500103bb3b6",
+								"parentId": "181d9788417f2dfead6bde85",
+								"slotId": "main",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 98,
+										"Durability": 92.07785
+									},
+									"FireMode": {
+										"FireMode": "single"
+									}
+								}
+							},
+							{
+								"_id": "5bedf9df3d0b177a97c61e40",
+								"_tpl": "5cadc1c6ae9215000f2775a4",
+								"parentId": "bc0c27d37f7bcc3ebd88c606",
+								"slotId": "mod_barrel",
+								"upd": {}
+							},
+							{
+								"_id": "eed94decc7df4675ce70b77d",
+								"_tpl": "5cadc431ae921500113bb8d5",
+								"parentId": "bc0c27d37f7bcc3ebd88c606",
+								"slotId": "mod_pistol_grip",
+								"upd": {}
+							},
+							{
+								"_id": "decd8a6a3f85ef4259a51029",
+								"_tpl": "5cadc55cae921500103bb3be",
+								"parentId": "bc0c27d37f7bcc3ebd88c606",
+								"slotId": "mod_reciever",
+								"upd": {}
+							},
+							{
+								"_id": "619df3fe5e5266822f5ac785",
+								"_tpl": "5cadc390ae921500126a77f1",
+								"parentId": "5bedf9df3d0b177a97c61e40",
+								"slotId": "mod_muzzle",
+								"upd": {}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 4,
-			"attachmentsNew": 3
+			"new": 5,
+			"attachmentsNew": 4
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -36506,89 +36570,7 @@
 		"location": "none",
 		"character": "pmc"
 	},
-	"insurance": [
-		{
-			"scheduledTime": 1715433142,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "10.05.2024",
-				"time": "05:04",
-				"location": "Interchange"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 1",
-			"items": [
-				{
-					"_id": "34ef5741df87a74fecc58370",
-					"_tpl": "5cadc190ae921500103bb3b6",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 98,
-							"Durability": 92.07785
-						},
-						"FireMode": {
-							"FireMode": "single"
-						}
-					}
-				},
-				{
-					"_id": "d4db970d8c50f2d20db119cd",
-					"_tpl": "5cadc1c6ae9215000f2775a4",
-					"parentId": "34ef5741df87a74fecc58370",
-					"slotId": "mod_barrel",
-					"upd": {}
-				},
-				{
-					"_id": "9bed2e569b2644610d33cbbb",
-					"_tpl": "5cadc431ae921500113bb8d5",
-					"parentId": "34ef5741df87a74fecc58370",
-					"slotId": "mod_pistol_grip",
-					"upd": {}
-				},
-				{
-					"_id": "b8237b980eb44d89b41c4e74",
-					"_tpl": "5cadc55cae921500103bb3be",
-					"parentId": "34ef5741df87a74fecc58370",
-					"slotId": "mod_reciever",
-					"upd": {}
-				},
-				{
-					"_id": "d26e07847f0609d27526d77b",
-					"_tpl": "5cadc2e0ae9215051e1c21e7",
-					"parentId": "34ef5741df87a74fecc58370",
-					"slotId": "mod_magazine",
-					"upd": {}
-				},
-				{
-					"_id": "84e49458f795f29a785f9c65",
-					"_tpl": "5cadc390ae921500126a77f1",
-					"parentId": "d4db970d8c50f2d20db119cd",
-					"slotId": "mod_muzzle",
-					"upd": {}
-				},
-				{
-					"_id": "9e1c249e7515fe93d793cbec",
-					"_tpl": "5cadd919ae921500126a77f3",
-					"parentId": "b8237b980eb44d89b41c4e74",
-					"slotId": "mod_sight_front",
-					"upd": {
-						"Sight": {
-							"ScopesCurrentCalibPointIndexes": [
-								0
-							],
-							"ScopesSelectedModes": [
-								0
-							],
-							"SelectedScope": 0
-						}
-					}
-				}
-			]
-		}
-	],
+	"insurance": [],
 	"traderPurchases": {
 		"54cb50c76803fa8b248b4571": {},
 		"5935c25fb3acc3127c3d8cd9": {},
