@@ -2994,7 +2994,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715528707
+				"sptUpdateLastRunTimestamp": 1715532303
 			},
 			"Info": {
 				"AccountType": 0,
@@ -22399,59 +22399,9 @@
 				}
 			],
 			"RagfairInfo": {
-				"isRatingGrowing": true,
-				"offers": [
-					{
-						"_id": "afccb10962d83e7badf74b80",
-						"intId": 1,
-						"user": {
-							"id": "662c780f0005616c389c3fc1",
-							"memberType": 0,
-							"nickname": "ChunkyMilk",
-							"rating": 0.6357671386663653,
-							"isRatingGrowing": false,
-							"avatar": "/files/trader/avatar/unknown.jpg"
-						},
-						"root": "0f1ba3d211b52369972a41f8",
-						"items": [
-							{
-								"_id": "0f1ba3d211b52369972a41f8",
-								"_tpl": "5751496424597720a27126da",
-								"parentId": "hideout",
-								"slotId": "hideout",
-								"upd": {
-									"SpawnedInSession": true,
-									"FoodDrink": {
-										"HpPercent": 1
-									},
-									"StackObjectsCount": 1,
-									"OriginalStackObjectsCount": 1
-								}
-							}
-						],
-						"itemsCost": 9236,
-						"requirements": [
-							{
-								"_tpl": "5449016a4bdc2d6f028b456f",
-								"count": 30000,
-								"onlyFunctional": false
-							}
-						],
-						"requirementsCost": 30000,
-						"summaryCost": 30000,
-						"startTime": 1715488570,
-						"endTime": 1715531770,
-						"loyaltyLevel": 1,
-						"sellInOnePiece": false,
-						"priority": false,
-						"locked": false,
-						"unlimitedCount": false,
-						"notAvailable": false,
-						"CurrentItemCount": 1,
-						"sellResult": []
-					}
-				],
-				"rating": 0.6617671386663653
+				"isRatingGrowing": false,
+				"offers": [],
+				"rating": 0.6317671386663652
 			},
 			"Skills": {
 				"Common": [
@@ -36374,11 +36324,40 @@
 					"templateId": "5ae4493486f7744efa289417 description",
 					"hasRewards": false,
 					"rewardCollected": false
+				},
+				{
+					"_id": "32d77d9cc2200f4a708cddc0",
+					"uid": "5ac3b934156ae10c4430e83c",
+					"type": 13,
+					"dt": 1715531778,
+					"text": "",
+					"templateId": "5bdabfe486f7743e1665df6e 0",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"items": {
+						"stash": "hideout",
+						"data": [
+							{
+								"_id": "d6c585978d11499dacf2a896",
+								"_tpl": "5751496424597720a27126da",
+								"parentId": "hideout",
+								"slotId": "main",
+								"upd": {
+									"SpawnedInSession": true,
+									"FoodDrink": {
+										"HpPercent": 1
+									},
+									"StackObjectsCount": 1
+								}
+							}
+						]
+					},
+					"maxStorageTime": 259200
 				}
 			],
 			"pinned": false,
-			"new": 0,
-			"attachmentsNew": 0
+			"new": 1,
+			"attachmentsNew": 1
 		},
 		"Mervin Tingley": {
 			"_id": "Mervin Tingley",
