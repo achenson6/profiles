@@ -3112,7 +3112,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715604310
+				"sptUpdateLastRunTimestamp": 1715607911
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31454,10 +31454,7 @@
 						"time": "04:35",
 						"location": "Lighthouse"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
@@ -31874,11 +31871,164 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "c84e9d8e8608186d3849adbb",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715607656,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 1",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "12.05.2024",
+						"time": "05:49",
+						"location": "Interchange"
+					},
+					"items": {
+						"stash": "181d9788417f2dfead6bde85",
+						"data": [
+							{
+								"_id": "9181ae8387d3b48706b0add7",
+								"_tpl": "5cadc190ae921500103bb3b6",
+								"parentId": "181d9788417f2dfead6bde85",
+								"slotId": "main",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 95,
+										"Durability": 93.98856
+									},
+									"Buff": {
+										"Rarity": "Common",
+										"BuffType": "WeaponSpread",
+										"Value": 0.9361981153488159,
+										"ThresholdDurability": 84.55000305175781
+									},
+									"FireMode": {
+										"FireMode": "single"
+									},
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "1a9309834a666adfebdd3911",
+								"_tpl": "5ac8d6885acfc400180ae7b0",
+								"parentId": "181d9788417f2dfead6bde85",
+								"slotId": "main",
+								"upd": {}
+							},
+							{
+								"_id": "3e6b1826e9a055e69d36d4b5",
+								"_tpl": "657f8ec5f4c82973640b234c",
+								"parentId": "1a9309834a666adfebdd3911",
+								"slotId": "Helmet_top",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 50,
+										"Durability": 50
+									}
+								}
+							},
+							{
+								"_id": "b90208b239c204a53c4d9946",
+								"_tpl": "657f8f10f4c82973640b2350",
+								"parentId": "1a9309834a666adfebdd3911",
+								"slotId": "Helmet_back",
+								"upd": {
+									"Repairable": {
+										"MaxDurability": 50,
+										"Durability": 50
+									}
+								}
+							},
+							{
+								"_id": "68a29cc0cfe531a2041d743b",
+								"_tpl": "5cadc1c6ae9215000f2775a4",
+								"parentId": "9181ae8387d3b48706b0add7",
+								"slotId": "mod_barrel",
+								"upd": {
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "d4207309cc3d808653080a2d",
+								"_tpl": "5cadc431ae921500113bb8d5",
+								"parentId": "9181ae8387d3b48706b0add7",
+								"slotId": "mod_pistol_grip",
+								"upd": {
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "01376b7d73980f4dce3ad2af",
+								"_tpl": "5cadc55cae921500103bb3be",
+								"parentId": "9181ae8387d3b48706b0add7",
+								"slotId": "mod_reciever",
+								"upd": {
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "798962b6cb88ed95a80ef8f0",
+								"_tpl": "5cadc390ae921500126a77f1",
+								"parentId": "68a29cc0cfe531a2041d743b",
+								"slotId": "mod_muzzle",
+								"upd": {
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "901e3f0f0be352abd9e1d756",
+								"_tpl": "5cadd940ae9215051e1c2316",
+								"parentId": "01376b7d73980f4dce3ad2af",
+								"slotId": "mod_sight_rear",
+								"upd": {
+									"Sight": {
+										"ScopesCurrentCalibPointIndexes": [
+											0
+										],
+										"ScopesSelectedModes": [
+											0
+										],
+										"SelectedScope": 0
+									},
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "77c5bb4237fcd72c213f088a",
+								"_tpl": "5cadd919ae921500126a77f3",
+								"parentId": "01376b7d73980f4dce3ad2af",
+								"slotId": "mod_sight_front",
+								"upd": {
+									"Sight": {
+										"ScopesCurrentCalibPointIndexes": [
+											0
+										],
+										"ScopesSelectedModes": [
+											0
+										],
+										"SelectedScope": 0
+									},
+									"SpawnedInSession": false
+								}
+							},
+							{
+								"_id": "f594564015941527423cfc7a",
+								"_tpl": "5a16b9fffcdbcb0176308b34",
+								"parentId": "1a9309834a666adfebdd3911",
+								"slotId": "mod_equipment_001",
+								"upd": {}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 2,
-			"attachmentsNew": 1
+			"new": 3,
+			"attachmentsNew": 2
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -35793,172 +35943,6 @@
 		"character": "pmc"
 	},
 	"insurance": [
-		{
-			"scheduledTime": 1715607505,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "12.05.2024",
-				"time": "05:49",
-				"location": "Interchange"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 1",
-			"items": [
-				{
-					"_id": "641a90de485c4940c8e53a40",
-					"_tpl": "5cadc190ae921500103bb3b6",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 95,
-							"Durability": 93.98856
-						},
-						"Buff": {
-							"Rarity": "Common",
-							"BuffType": "WeaponSpread",
-							"Value": 0.9361981153488159,
-							"ThresholdDurability": 84.55000305175781
-						},
-						"FireMode": {
-							"FireMode": "single"
-						},
-						"SpawnedInSession": false
-					}
-				},
-				{
-					"_id": "db4e8cbdb9168c380917bbdb",
-					"_tpl": "5ac8d6885acfc400180ae7b0",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "7fc3b4f29a96ea2548bf00e7",
-					"_tpl": "657f8ec5f4c82973640b234c",
-					"parentId": "db4e8cbdb9168c380917bbdb",
-					"slotId": "Helmet_top",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 50,
-							"Durability": 50
-						}
-					}
-				},
-				{
-					"_id": "3536950a23208d75dd95f0fb",
-					"_tpl": "657f8f10f4c82973640b2350",
-					"parentId": "db4e8cbdb9168c380917bbdb",
-					"slotId": "Helmet_back",
-					"upd": {
-						"Repairable": {
-							"MaxDurability": 50,
-							"Durability": 50
-						}
-					}
-				},
-				{
-					"_id": "4128101b52e6a04ece27bada",
-					"_tpl": "5cadc1c6ae9215000f2775a4",
-					"parentId": "641a90de485c4940c8e53a40",
-					"slotId": "mod_barrel",
-					"upd": {
-						"SpawnedInSession": false
-					}
-				},
-				{
-					"_id": "ed2927a944bb434c1f803a4b",
-					"_tpl": "5cadc431ae921500113bb8d5",
-					"parentId": "641a90de485c4940c8e53a40",
-					"slotId": "mod_pistol_grip",
-					"upd": {
-						"SpawnedInSession": false
-					}
-				},
-				{
-					"_id": "b3ae101d37dec0528f3406c9",
-					"_tpl": "5cadc55cae921500103bb3be",
-					"parentId": "641a90de485c4940c8e53a40",
-					"slotId": "mod_reciever",
-					"upd": {
-						"SpawnedInSession": false
-					}
-				},
-				{
-					"_id": "934487a7a33a2cf938a589de",
-					"_tpl": "5cadc2e0ae9215051e1c21e7",
-					"parentId": "641a90de485c4940c8e53a40",
-					"slotId": "mod_magazine",
-					"upd": {}
-				},
-				{
-					"_id": "6094f8d3dbbd14d9778a9c8f",
-					"_tpl": "56def37dd2720bec348b456a",
-					"parentId": "641a90de485c4940c8e53a40",
-					"slotId": "mod_tactical",
-					"upd": {
-						"Light": {
-							"IsActive": false,
-							"SelectedMode": 2
-						},
-						"SpawnedInSession": false
-					}
-				},
-				{
-					"_id": "1d511026e4c4f5c0c6bb835a",
-					"_tpl": "5cadc390ae921500126a77f1",
-					"parentId": "4128101b52e6a04ece27bada",
-					"slotId": "mod_muzzle",
-					"upd": {
-						"SpawnedInSession": false
-					}
-				},
-				{
-					"_id": "e5419cb1f9bd3e24cfcf6e8b",
-					"_tpl": "5cadd940ae9215051e1c2316",
-					"parentId": "b3ae101d37dec0528f3406c9",
-					"slotId": "mod_sight_rear",
-					"upd": {
-						"Sight": {
-							"ScopesCurrentCalibPointIndexes": [
-								0
-							],
-							"ScopesSelectedModes": [
-								0
-							],
-							"SelectedScope": 0
-						},
-						"SpawnedInSession": false
-					}
-				},
-				{
-					"_id": "7bf3b630764fc633cb348f41",
-					"_tpl": "5cadd919ae921500126a77f3",
-					"parentId": "b3ae101d37dec0528f3406c9",
-					"slotId": "mod_sight_front",
-					"upd": {
-						"Sight": {
-							"ScopesCurrentCalibPointIndexes": [
-								0
-							],
-							"ScopesSelectedModes": [
-								0
-							],
-							"SelectedScope": 0
-						},
-						"SpawnedInSession": false
-					}
-				},
-				{
-					"_id": "535f29e958a947d8e2065ec7",
-					"_tpl": "5a16b9fffcdbcb0176308b34",
-					"parentId": "db4e8cbdb9168c380917bbdb",
-					"slotId": "mod_equipment_001",
-					"upd": {}
-				}
-			]
-		},
 		{
 			"scheduledTime": 1715641692,
 			"traderId": "54cb50c76803fa8b248b4571",
