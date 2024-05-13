@@ -3112,7 +3112,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715593509
+				"sptUpdateLastRunTimestamp": 1715597099
 			},
 			"Info": {
 				"AccountType": 0,
@@ -31775,11 +31775,116 @@
 						"time": "05:46",
 						"location": "Interchange"
 					}
+				},
+				{
+					"_id": "8071d59657fa7710a70f7dea",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715595032,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 2",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "12.05.2024",
+						"time": "04:27",
+						"location": "TarkovStreets"
+					},
+					"items": {
+						"stash": "181d9788417f2dfead6bde85",
+						"data": [
+							{
+								"_id": "a94f65e85fe3cafdd8b57d07",
+								"_tpl": "5cadc2e0ae9215051e1c21e7",
+								"parentId": "181d9788417f2dfead6bde85",
+								"slotId": "main",
+								"upd": {}
+							},
+							{
+								"_id": "1c5ba25beb1c287f54784338",
+								"_tpl": "5cadc190ae921500103bb3b6",
+								"parentId": "181d9788417f2dfead6bde85",
+								"slotId": "main",
+								"upd": {
+									"Repairable": {
+										"Durability": 96.51641,
+										"MaxDurability": 97.13
+									},
+									"FireMode": {
+										"FireMode": "single"
+									}
+								}
+							},
+							{
+								"_id": "a5ed3036e3ba3008888c2ccb",
+								"_tpl": "5cadc1c6ae9215000f2775a4",
+								"parentId": "1c5ba25beb1c287f54784338",
+								"slotId": "mod_barrel",
+								"upd": {}
+							},
+							{
+								"_id": "920f711d44c36747e60d6f5f",
+								"_tpl": "5cadc431ae921500113bb8d5",
+								"parentId": "1c5ba25beb1c287f54784338",
+								"slotId": "mod_pistol_grip",
+								"upd": {}
+							},
+							{
+								"_id": "fe91e78af8e265c0ec88c673",
+								"_tpl": "5cadc55cae921500103bb3be",
+								"parentId": "1c5ba25beb1c287f54784338",
+								"slotId": "mod_reciever",
+								"upd": {}
+							},
+							{
+								"_id": "f1cec4e95030c00153c6ac75",
+								"_tpl": "5cadc390ae921500126a77f1",
+								"parentId": "a5ed3036e3ba3008888c2ccb",
+								"slotId": "mod_muzzle",
+								"upd": {}
+							},
+							{
+								"_id": "19b6c519e74976b802264778",
+								"_tpl": "5cadd940ae9215051e1c2316",
+								"parentId": "fe91e78af8e265c0ec88c673",
+								"slotId": "mod_sight_rear",
+								"upd": {
+									"Sight": {
+										"ScopesCurrentCalibPointIndexes": [
+											0
+										],
+										"ScopesSelectedModes": [
+											0
+										],
+										"SelectedScope": 0
+									}
+								}
+							},
+							{
+								"_id": "8bb0e41ba3549c342f4ac1f5",
+								"_tpl": "5cadd919ae921500126a77f3",
+								"parentId": "fe91e78af8e265c0ec88c673",
+								"slotId": "mod_sight_front",
+								"upd": {
+									"Sight": {
+										"ScopesCurrentCalibPointIndexes": [
+											0
+										],
+										"ScopesSelectedModes": [
+											0
+										],
+										"SelectedScope": 0
+									}
+								}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 1,
-			"attachmentsNew": 0
+			"new": 2,
+			"attachmentsNew": 1
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -35694,111 +35799,6 @@
 		"character": "pmc"
 	},
 	"insurance": [
-		{
-			"scheduledTime": 1715594463,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "12.05.2024",
-				"time": "04:27",
-				"location": "TarkovStreets"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 2",
-			"items": [
-				{
-					"_id": "639862e10428b2d232105462",
-					"_tpl": "5cadc2e0ae9215051e1c21e7",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {}
-				},
-				{
-					"_id": "681a862b4bcaa69794b80f4c",
-					"_tpl": "5cadc190ae921500103bb3b6",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {
-						"Repairable": {
-							"Durability": 96.51641,
-							"MaxDurability": 97.13
-						},
-						"FireMode": {
-							"FireMode": "single"
-						}
-					}
-				},
-				{
-					"_id": "20e178da7fec41855bc2c83c",
-					"_tpl": "5cadc1c6ae9215000f2775a4",
-					"parentId": "681a862b4bcaa69794b80f4c",
-					"slotId": "mod_barrel",
-					"upd": {}
-				},
-				{
-					"_id": "9e0edf180f5412bdb90d49be",
-					"_tpl": "5cadc431ae921500113bb8d5",
-					"parentId": "681a862b4bcaa69794b80f4c",
-					"slotId": "mod_pistol_grip",
-					"upd": {}
-				},
-				{
-					"_id": "5bd54925f86977f5abac34e5",
-					"_tpl": "5cadc55cae921500103bb3be",
-					"parentId": "681a862b4bcaa69794b80f4c",
-					"slotId": "mod_reciever",
-					"upd": {}
-				},
-				{
-					"_id": "c8a1b424d84fa317cccafbb6",
-					"_tpl": "5cadc2e0ae9215051e1c21e7",
-					"parentId": "681a862b4bcaa69794b80f4c",
-					"slotId": "mod_magazine",
-					"upd": {}
-				},
-				{
-					"_id": "406745d7f20a280b4af057a4",
-					"_tpl": "5cadc390ae921500126a77f1",
-					"parentId": "20e178da7fec41855bc2c83c",
-					"slotId": "mod_muzzle",
-					"upd": {}
-				},
-				{
-					"_id": "48669ec997278922fbdaa492",
-					"_tpl": "5cadd940ae9215051e1c2316",
-					"parentId": "5bd54925f86977f5abac34e5",
-					"slotId": "mod_sight_rear",
-					"upd": {
-						"Sight": {
-							"ScopesCurrentCalibPointIndexes": [
-								0
-							],
-							"ScopesSelectedModes": [
-								0
-							],
-							"SelectedScope": 0
-						}
-					}
-				},
-				{
-					"_id": "eba03901aee0aed7af1e4991",
-					"_tpl": "5cadd919ae921500126a77f3",
-					"parentId": "5bd54925f86977f5abac34e5",
-					"slotId": "mod_sight_front",
-					"upd": {
-						"Sight": {
-							"ScopesCurrentCalibPointIndexes": [
-								0
-							],
-							"ScopesSelectedModes": [
-								0
-							],
-							"SelectedScope": 0
-						}
-					}
-				}
-			]
-		},
 		{
 			"scheduledTime": 1715607505,
 			"traderId": "54cb50c76803fa8b248b4571",
