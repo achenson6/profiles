@@ -3124,7 +3124,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715697908
+				"sptUpdateLastRunTimestamp": 1715701499
 			},
 			"Info": {
 				"AccountType": 0,
@@ -32063,10 +32063,7 @@
 						"time": "05:05",
 						"location": "Interchange"
 					},
-					"items": {
-						"stash": "181d9788417f2dfead6bde85",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 345600
 				},
 				{
