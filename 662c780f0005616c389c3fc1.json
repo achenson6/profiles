@@ -3124,7 +3124,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715661922
+				"sptUpdateLastRunTimestamp": 1715665519
 			},
 			"Info": {
 				"AccountType": 0,
@@ -32937,11 +32937,39 @@
 						]
 					},
 					"maxStorageTime": 345600
+				},
+				{
+					"_id": "5b94728728c59448d3ba35ab",
+					"uid": "54cb50c76803fa8b248b4571",
+					"type": 8,
+					"dt": 1715662989,
+					"text": "",
+					"templateId": "58fe0e4586f774728248ca13 2",
+					"hasRewards": true,
+					"rewardCollected": false,
+					"systemData": {
+						"date": "12.05.2024",
+						"time": "19:57",
+						"location": "factory4_day"
+					},
+					"items": {
+						"stash": "181d9788417f2dfead6bde85",
+						"data": [
+							{
+								"_id": "ce2ed7098faa88bcddc124ba",
+								"_tpl": "59e7643b86f7742cbf2c109a",
+								"parentId": "181d9788417f2dfead6bde85",
+								"slotId": "main",
+								"upd": {}
+							}
+						]
+					},
+					"maxStorageTime": 345600
 				}
 			],
 			"pinned": false,
-			"new": 1,
-			"attachmentsNew": 1
+			"new": 2,
+			"attachmentsNew": 2
 		},
 		"54cb57776803fa99248b456e": {
 			"_id": "54cb57776803fa99248b456e",
@@ -37182,27 +37210,6 @@
 		"character": "pmc"
 	},
 	"insurance": [
-		{
-			"scheduledTime": 1715662551,
-			"traderId": "54cb50c76803fa8b248b4571",
-			"maxStorageTime": 345600,
-			"systemData": {
-				"date": "12.05.2024",
-				"time": "19:57",
-				"location": "factory4_day"
-			},
-			"messageType": 8,
-			"messageTemplateId": "58fe0e4586f774728248ca13 2",
-			"items": [
-				{
-					"_id": "4ca47cd23b6b384bf9af9634",
-					"_tpl": "59e7643b86f7742cbf2c109a",
-					"parentId": "181d9788417f2dfead6bde85",
-					"slotId": "hideout",
-					"upd": {}
-				}
-			]
-		},
 		{
 			"scheduledTime": 1715672855,
 			"traderId": "54cb50c76803fa8b248b4571",
