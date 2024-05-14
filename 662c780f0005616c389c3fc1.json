@@ -3124,7 +3124,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715715906
+				"sptUpdateLastRunTimestamp": 1715719501
 			},
 			"Info": {
 				"AccountType": 0,
@@ -32170,10 +32170,7 @@
 					"templateId": "59675ea386f77414b32bded2 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "84efef76721b5301252315cc",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -33624,10 +33621,7 @@
 					"templateId": "596760e186f7741e11214d58 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5d1e156ea148454093c50ff2",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -35052,10 +35046,7 @@
 					"templateId": "5d25e2b486f77409de05bba0 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "c226b14ecb0591d31a7d8675",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36560,10 +36551,7 @@
 					"text": "Your Ibuprofen painkillers 1 items were bought by Lyman.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "e4ade7ee2c872db18e43e248",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
