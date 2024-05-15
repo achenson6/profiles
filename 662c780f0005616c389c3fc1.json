@@ -3124,7 +3124,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715733913
+				"sptUpdateLastRunTimestamp": 1715737513
 			},
 			"Info": {
 				"AccountType": 0,
@@ -36592,10 +36592,7 @@
 					"text": "Your Golden Star balm 1 items were bought by Доброслав.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "99ca90e00fb61cb710635932",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36606,10 +36603,7 @@
 					"text": "Your Ibuprofen painkillers 1 items were bought by Кондратий.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "5f638ce32cd8d397843829cd",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36620,10 +36614,7 @@
 					"text": "Your SJ1 TGLabs combat stimulant injector 1 items were bought by Артур.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "ad0f6a02f4898b9c8044d1d2",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36634,10 +36625,7 @@
 					"text": "Your Tetriz portable game console 1 items were bought by Игнатий.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "280326d269cfc47bf71f6c20",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36648,10 +36636,7 @@
 					"text": "Your Tetriz portable game console 1 items were bought by Тимофей.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "cc7471fb32b1e7c5ed2023ec",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36662,10 +36647,7 @@
 					"text": "Your Tetriz portable game console 1 items were bought by Лаврентий.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "8e5248d6984b35b9c94b50ef",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36691,10 +36673,7 @@
 					"text": "Your Capacitors 1 items were bought by BigSexy.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "247de2d9251ffca9cc1b6c0a",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
