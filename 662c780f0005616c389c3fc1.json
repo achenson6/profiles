@@ -3124,7 +3124,7 @@
 				},
 				"Production": {},
 				"Seed": 1966478817,
-				"sptUpdateLastRunTimestamp": 1715737513
+				"sptUpdateLastRunTimestamp": 1715741094
 			},
 			"Info": {
 				"AccountType": 0,
@@ -36684,10 +36684,7 @@
 					"text": "Your Ibuprofen painkillers 1 items were bought by Михей.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "dfbe6a32cc691e4b7dcfd297",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36698,10 +36695,7 @@
 					"text": "Your Can of Max Energy energy drink 1 items were bought by Игнат.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "7e690739b4c31086224f9f8d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36712,10 +36706,7 @@
 					"text": "Your Meldonin injector 1 items were bought by Erich.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "cb48d2ae48c9ea0a22484fb8",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36726,10 +36717,7 @@
 					"text": "Your Meldonin injector 1 items were bought by Феликс.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6754212dba3385a89f6be86e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36740,10 +36728,7 @@
 					"text": "Your Adrenaline injector 1 items were bought by Tom.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "c80e3738c3bf46160b8b8918",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36755,10 +36740,7 @@
 					"templateId": "5ae448f286f77448d73c0131 successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "6ee6a8c73e01fec9545ff42e",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36780,10 +36762,7 @@
 					"templateId": "5ae4490786f7744ca822adcc successMessageText",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "59d55f513d8796fbf6b57207",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
@@ -36804,10 +36783,7 @@
 					"text": "Your Adrenaline injector 1 items were bought by Емельян.",
 					"hasRewards": false,
 					"rewardCollected": true,
-					"items": {
-						"stash": "fd456eccee4ec27aa42f961d",
-						"data": []
-					},
+					"items": {},
 					"maxStorageTime": 172800
 				},
 				{
